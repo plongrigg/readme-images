@@ -1,2 +1,2 @@
-# readme-images
+# Images for Readme documents
  
